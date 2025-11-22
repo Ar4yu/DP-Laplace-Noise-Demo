@@ -1,2 +1,2 @@
 # DP-Laplace-Noise-Demo
-Demonstartion of different levels of input pertubation for differential privacy using Laplace Mechanism
+Demonstration of different levels of input perturbation for differential privacy using the Laplace Mechanism
