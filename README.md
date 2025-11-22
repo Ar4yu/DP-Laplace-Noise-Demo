@@ -16,7 +16,7 @@ This project demonstrates input perturbation for differential privacy by injecti
 
 ## Visual Examples
 
-![Grid of Laplace Noise Plots](laplace_grid.png)
+![Grid of Laplace Noise Plots](laplace_noise_timeseries_grid.png)
 
 ## How It Works
 
